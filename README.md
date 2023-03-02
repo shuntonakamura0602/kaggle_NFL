@@ -12,4 +12,5 @@
 colabはI/Oが弱く画像コンペなどに参加する際には慎重になったほうがいい
 
 # アイデア・スコア・ディスカッションをまとめたもの
-https://www.notion.so/NFL2023-18cf3eb5ff2440809487e62917d5c1b4?pvs=4
+
+[https://www.notion.so/NFL2023-18cf3eb5ff2440809487e62917d5c1b4?pvs=4](https://hollow-cereal-c1b.notion.site/NFL2023-18cf3eb5ff2440809487e62917d5c1b4)
